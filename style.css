@@ -1,0 +1,44 @@
+header{
+    background-color:rgb(31, 170, 170);
+    font-size:x-large;
+    padding-left:30px;
+    border: 3px solid black;
+    width: 430px;
+}
+#contactus{
+    padding-top: 10px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color:palevioletred;
+    width: 450px;
+}
+
+#heading{
+    background-color: red;
+    font-size:x-large;
+    padding-left:30px;
+}
+#total{
+    border: 2px solid black;
+    padding-left:10px;
+    padding-right:10px;
+    width: 530px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#content{
+    font-size:larger;
+    font-weight:bold;
+}
+#one{
+    margin-top: 20px;
+    width: 600px;;
+}
+input[type=text]{
+   border:white solid;
+   border-bottom: black solid;
+   
+}  
